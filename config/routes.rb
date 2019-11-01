@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   root 'home#index'
 
   resources :guess
-
+  get "/home_home", to: "home#home"
 
 
 
