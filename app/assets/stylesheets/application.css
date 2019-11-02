@@ -115,3 +115,10 @@
  	text-align: center;
  	margin: 70px auto;
  }
+ #home {
+   height: 350px;
+   width: 50%;
+ }
+ section{
+   text-align: center;
+ }
